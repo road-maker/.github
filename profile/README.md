@@ -46,4 +46,3 @@ Github에서는 Github Issue기능을 PR과 연동하여 협업 도구로 사용
 3. Pull Request를 작성할 때 **[Keyword] + #[IssueNumber]** 를 작성하면 연동된다.- Keyword: close, closes, closed- fix, fixes, fiexed- resolve, resoves, resolved
 - PR이 머지될 경우 자동으로 해당 이슈가 close된다.
 - 키워드 없이 issue 번호만 작성하면 머지 되어도 issue는 종료되지 않는다.
-##
